@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542889939 source:c:\users\sonia\desktop\naukowe\2018.19\informatyka\c++\problem_komiwojazera\problem_komiwojazera\komiwojazer.cpp
+	"kdeader.hpp"
+
+1542884004 c:\users\sonia\desktop\naukowe\2018.19\informatyka\c++\problem_komiwojazera\problem_komiwojazera\kdeader.hpp
+	<cmath>
+	<functional>
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<memory>
+	<algorithm>
+	<limits>
+
